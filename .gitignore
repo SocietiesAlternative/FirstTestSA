@@ -33,7 +33,7 @@
 # wp-content/themes/*
 # !wp-content/themes/my-theme/
 
-!wp-config.php
+wp-config.php
 wp-content/ai1vm-backups
 wp-content/ai1vm-backups/*
 
